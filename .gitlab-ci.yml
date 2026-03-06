@@ -1,9 +1,16 @@
 stages:
   - test
 
-test_job:
+playwright-test:
   stage: test
-  image: node:18
+  
   script:
     - npm install
+    - npx playwright install
+    - npm validateVariables.spec.js
+
+  artifacts:
+    when: always
+    paths:
+      - failed-pages.html
     - echo "Pipeline is working!"
