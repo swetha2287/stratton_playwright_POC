@@ -1,0 +1,1144 @@
+[
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/",
+    "variables": [
+      "${google-review}"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/car-finance",
+    "variables": [
+      "${caravan-loan-1}"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/car-finance/personal-car-loan",
+    "variables": [
+      "${car-rate}",
+      "${caravan-LOAN-1}"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/car-finance/car-loan-refinance",
+    "variables": [
+      "${minComparisonRate}"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/car-finance/new-car-finance",
+    "variables": [
+      "${minComparisonRate}"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/car-finance/used-car-finance",
+    "variables": [
+      "${minComparisonRate}"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/car-finance/green-car-loan",
+    "variables": [
+      "${minComparisonRate}"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/car-finance/motorbike-finance",
+    "variables": [
+      "${minComparisonRate}"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/caravan-rv-finance",
+    "variables": [
+      "${new-test-rates}",
+      "${minComparisonRate}"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/caravan-rv-finance/secured-caravan-finance",
+    "variables": [
+      "${minComparisonRate}"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/caravan-rv-finance/unsecured-caravan-finance",
+    "variables": [
+      "${minComparisonRate}"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/caravan-rv-finance/new-caravan-finance",
+    "variables": [
+      "${minComparisonRate}"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/caravan-rv-finance/used-caravan-finance",
+    "variables": [
+      "${minComparisonRate}"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/caravan-rv-finance/caravan-finance-calculator",
+    "variables": [
+      "${minComparisonRate}"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/boat-finance",
+    "variables": [
+      "${car-rate}"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/boat-finance/secured-boat-finance",
+    "variables": [
+      "${minComparisonRate}"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/boat-finance/unsecured-boat-finance",
+    "variables": [
+      "${minComparisonRate}"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/boat-finance/new-boat-finance",
+    "variables": [
+      "${minComparisonRate}"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/boat-finance/used-boat-finance",
+    "variables": [
+      "${minComparisonRate}"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/boat-finance/jet-ski-finance",
+    "variables": [
+      "${minComparisonRate}"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/boat-finance/boat-finance-calculator",
+    "variables": [
+      "${minComparisonRate}"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/commercial-finance",
+    "variables": [
+      "${minComparisonRate}"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/commercial-finance/chattel-mortgage",
+    "variables": [
+      "${minComparisonRate}"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/commercial-finance/unsecured-business-loans",
+    "variables": [
+      "${minComparisonRate}"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/commercial-finance/cashflow-finance",
+    "variables": [
+      "${minComparisonRate}"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/commercial-finance/debtor-finance",
+    "variables": [
+      "${minComparisonRate}"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/commercial-finance/construction-finance",
+    "variables": [
+      "${minComparisonRate}"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/commercial-finance/commercial-equipment-finance",
+    "variables": [
+      "${minComparisonRate}"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/calculators/car-loan-calculator",
+    "variables": [
+      "${minComparisonRate}"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/calculators/loan-calculator",
+    "variables": [
+      "${minComparisonRate}"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/calculators/commercial-loan-calculator",
+    "variables": [
+      "${minComparisonRate}"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/calculators/chattel-mortgage-calculator",
+    "variables": [
+      "${minComparisonRate}"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/calculators/luxury-car-tax-calculator",
+    "variables": [
+      "Navigation error: page.goto: Test timeout of 720000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://aem-dev.strattonfinance.com.au/calculators/luxury-car-tax-calculator\", waiting until \"networkidle\"\u001b[22m\n"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/calculators/car-lease-calculator",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/calculators/motorbike-calculator",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/calculators/boat-loan-calculator",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/about-stratton",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/about-stratton/careers",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/about-stratton/website-terms-copyright",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/newsroom",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/newsroom/understanding-the-impact-of-debt-consolidation-on-credit-scores",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/newsroom/7-things-you-need-to-bring-when-applying-for-a-business-loan",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/newsroom/5-solid-reasons-to-use-a-caravan-finance-broker",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/newsroom/3-ways-a-commercial-finance-broker-can-be-a-powerful-tool-for-your-business",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/newsroom/5-hot-tips-for-negotiating-with-caravan-dealers",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/newsroom/9-expert-tips-on-how-to-negotiate-with-car-dealers",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/newsroom/applying-for-a-new-car-loan-make-sure-you-ve-got-these-documents-ready",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/newsroom/ask-an-expert-buying-a-car-with-cash-vs-financing",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/newsroom/agreed-vs-market-value-car-insurance",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/newsroom/asset-finance-mortgages-should-they-mix",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/newsroom/car-lease-faqs",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/newsroom/motor-vehicle-stamp-duty-guide",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/newsroom/broker-vs-direct-which-path-to-choose",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/newsroom/questions-to-ask-before-you-sign-your-car-loan",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/newsroom/car-loan-pre-approval-the-rundown",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/newsroom/are-you-paying-too-much-for-your-car-loan",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/newsroom/buying-a-second-hand-car-privately",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/newsroom/car-leasing-vs-buying",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/newsroom/do-i-need-a-deposit-for-my-car-loan",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/newsroom/the-4-main-types-of-equipment-financing-explained",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/newsroom/chattel-mortgage-hire-purchase-or-lease-for-a-commercial-vehicle",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/newsroom/extended-vehicle-warranty-insurance-guide",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/newsroom/taking-out-a-7-year-car-loan-bad-idea-or",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/newsroom/unlock-the-equity-in-your-car",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/newsroom/buying-a-new-car-with-existing-finance-the-right-way",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/newsroom/how-to-make-the-most-of-your-car-allowance",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/newsroom/low-doc-loans-explained",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/newsroom/car-loan-on-the-mortgage",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/newsroom/car-shopping-why-pre-approval-is-key",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/newsroom/low-doc-car-loans-what-are-they-and-how-can-they-benefit-you",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/newsroom/electric-cars-resale-value",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/newsroom/how-to-buy-a-second-hand-car-privately-the-right-way",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/newsroom/negative-gearing-explained",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/newsroom/repayments-vs-rates-whats-the-deal",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/newsroom/the-best-australian-cars-ever",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/newsroom/two-options-for-selling-your-car-quickly",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/newsroom/want-to-pay-off-your-car-loan-faster-here-s-how",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/newsroom/dealer-finance-vs-car-loan-what-s-the-best-option",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/newsroom/how-can-i-finance-a-car-when-i-m-an-abn-holder",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/newsroom/know-your-extras-car-accessories-explained",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/newsroom/fixed-or-variable-make-the-right-choice",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/newsroom/motor-vehicle-car-stamp-duty-faqs",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/newsroom/paying-off-your-car-loan-early-is-it-possible",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/newsroom/the-complete-guide-to-buying-a-demo-car",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/newsroom/understanding-the-ins-and-outs-of-trading-in-a-financed-car",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/newsroom/personal-loans-what-are-they-and-how-can-i-use-them",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/newsroom/what-is-a-finance-lease",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/newsroom/how-to-pay-for-your-new-caravan",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/newsroom/the-top-6-benefits-of-financing-your-business-equipment",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/newsroom/how-novated-leases-can-be-an-ideal-solution-for-businesses",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/newsroom/whats-a-balloon-payment",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/newsroom/luxury-car-tax-faqs",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/newsroom/why-use-a-broker-for-your-novated-lease",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/newsroom/dealer-bank-and-broker-financing-what-s-the-difference",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/newsroom/how-to-reduce-loan-repayments-a-look-at-all-of-your-options",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/newsroom/novated-lease-or-buying-with-cash-which-is-the-right-one-for-you",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/newsroom/skip-the-balloon-payment-blues",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/newsroom/car-loans-and-credit-scores-the-lowdown",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/newsroom/what-tax-deductions-can-i-claim-on-my-car-loan",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/newsroom/the-best-time-to-swap-or-upgrade-your-car-explained",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/newsroom/understanding-residual-values-balloon-payments",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/newsroom/what-costs-can-be-included-in-my-loan",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/newsroom/what-is-luxury-car-tax",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/newsroom/what-will-affect-your-car-loan-s-interest-rate",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/newsroom/commercial-vehicle-finance-whats-the-best-duration-of-a-loan",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/newsroom/how-to-get-a-great-car-refinancing-deal",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/newsroom/the-true-cost-of-zero-percent-finance",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/newsroom/what-is-gap-insurance",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/newsroom/financing-vs-paying-cash-the-heavyweight-car-buying-title-fight",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/newsroom/tips-to-maximise-your-car-allowance",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/newsroom/you-need-a-car-finance-broker",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/newsroom/benefits-of-getting-a-boat-loan-pre-approval",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/newsroom/what-s-the-minimum-credit-score-to-still-get-car-finance-approval",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/newsroom/what-is-a-professional-vehicle-inspection-and-why-you-need-one",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/newsroom/ask-an-expert-financing-for-tax-savings",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/newsroom/sample",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/faqs",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/send-feedback",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/search-results",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/products",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/products/personal-loans",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/products/home-loans",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/products/car-broker-service",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/products/leasing",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/products/leasing/car-lease",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/products/leasing/asset-lease",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/products/insurance-warranties",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/products/insurance-warranties/insurance",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/products/extended-warranty",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/products/novated-lease",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/products/asset-lease",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/franchise",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/franchise/darwin",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/franchise/cronulla",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/franchise/craigieburn",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/franchise/ingleside",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/franchise/south-east-metro-hills",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/franchise/wollongong",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/franchise/middle-swan",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/franchise/southwest-sydney",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/franchise/wanneroo",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/franchise/stratton-finance-brisbane-central",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/franchise/albury-wodonga",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/franchise/liverpool",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/franchise/queanbeyan",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/franchise/wide-bay",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/franchise/hobart",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/franchise/norwest",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/franchise/georges-river",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/franchise/tamworth",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/page-not-found",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/toyota",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/holden",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/ford",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/bmw",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/mercedes-benz",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/mazda",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/audi",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/volkswagen",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/mitsubishi",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/hyundai",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/subaru",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/nissan",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/aston-martin",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/honda",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/kia",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/porsche",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/land-rover",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/lexus",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/maserati",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/peugeot",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/range-rover",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/skoda",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/campaigns",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/campaigns/200_cashback",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/campaigns/camplify-promo",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/campaigns/camps-australia-wide",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/campaigns/flightcentretravelgroup",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/campaigns/wide-bay",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/campaigns/showpage",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/campaigns/referral-program",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/car-finance-adelaide",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/car-finance-brisbane",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/car-finance-melbourne",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/car-finance-sydney",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/search-brokers",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/borrowing-capacity-form",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/affiliate",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/get-a-quote",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/json",
+    "variables": [
+      "Navigation error: page.goto: Target page, context or browser has been closed"
+    ]
+  }
+]
