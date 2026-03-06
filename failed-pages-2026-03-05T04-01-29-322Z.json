@@ -1,0 +1,227 @@
+[
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/",
+    "variables": [
+      "${google-review}"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/car-finance",
+    "variables": [
+      "${caravan-loan-1}"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/car-finance/personal-car-loan",
+    "variables": [
+      "${car-rate}",
+      "${caravan-LOAN-1}"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/car-finance/car-loan-refinance",
+    "variables": [
+      "${minComparisonRate}"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/car-finance/new-car-finance",
+    "variables": [
+      "${minComparisonRate}"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/car-finance/used-car-finance",
+    "variables": [
+      "${minComparisonRate}"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/car-finance/green-car-loan",
+    "variables": [
+      "${minComparisonRate}"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/car-finance/motorbike-finance",
+    "variables": [
+      "${minComparisonRate}"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/caravan-rv-finance",
+    "variables": [
+      "${new-test-rates}",
+      "${minComparisonRate}"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/caravan-rv-finance/secured-caravan-finance",
+    "variables": [
+      "${minComparisonRate}"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/caravan-rv-finance/unsecured-caravan-finance",
+    "variables": [
+      "${minComparisonRate}"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/caravan-rv-finance/new-caravan-finance",
+    "variables": [
+      "${minComparisonRate}"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/caravan-rv-finance/used-caravan-finance",
+    "variables": [
+      "${minComparisonRate}"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/caravan-rv-finance/caravan-finance-calculator",
+    "variables": [
+      "${minComparisonRate}"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/boat-finance",
+    "variables": [
+      "${car-rate}"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/boat-finance/secured-boat-finance",
+    "variables": [
+      "${minComparisonRate}"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/boat-finance/unsecured-boat-finance",
+    "variables": [
+      "${minComparisonRate}"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/boat-finance/new-boat-finance",
+    "variables": [
+      "${minComparisonRate}"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/boat-finance/used-boat-finance",
+    "variables": [
+      "${minComparisonRate}"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/boat-finance/jet-ski-finance",
+    "variables": [
+      "${minComparisonRate}"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/boat-finance/boat-finance-calculator",
+    "variables": [
+      "${minComparisonRate}"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/commercial-finance",
+    "variables": [
+      "${minComparisonRate}"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/commercial-finance/chattel-mortgage",
+    "variables": [
+      "${minComparisonRate}"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/commercial-finance/unsecured-business-loans",
+    "variables": [
+      "${minComparisonRate}"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/commercial-finance/cashflow-finance",
+    "variables": [
+      "${minComparisonRate}"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/commercial-finance/debtor-finance",
+    "variables": [
+      "${minComparisonRate}"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/commercial-finance/construction-finance",
+    "variables": [
+      "${minComparisonRate}"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/commercial-finance/commercial-equipment-finance",
+    "variables": [
+      "${minComparisonRate}"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/calculators/car-loan-calculator",
+    "variables": [
+      "${minComparisonRate}"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/calculators/loan-calculator",
+    "variables": [
+      "${minComparisonRate}"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/calculators/commercial-loan-calculator",
+    "variables": [
+      "${minComparisonRate}"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/calculators/chattel-mortgage-calculator",
+    "variables": [
+      "${minComparisonRate}"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/calculators/luxury-car-tax-calculator",
+    "variables": [
+      "${minComparisonRate}"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/calculators/motorbike-calculator",
+    "variables": [
+      "${minComparisonRate}"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/calculators/boat-loan-calculator",
+    "variables": [
+      "${minComparisonRate}"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/products",
+    "variables": [
+      "${google-review}"
+    ]
+  },
+  {
+    "url": "https://aem-dev.strattonfinance.com.au/products/personal-loans",
+    "variables": [
+      "${minComparisonRate}",
+      "${caravan-rate-1}"
+    ]
+  }
+]
