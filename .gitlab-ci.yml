@@ -15,4 +15,4 @@ playwright-test:
       - playwright-report
       - failed-tests.json
     expire_in: 1 week
-    - echo "Pipeline is working!"
+      - echo "Pipeline is working!"
