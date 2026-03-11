@@ -82,7 +82,7 @@ test.describe('Validate variables in URLs', () => {
        //send email if there are failed pages
         if (failedPages.length > 0) {
             console.log(`📧 Sending email report...`);
-            await sendEmail(failedPages);
+            //await sendEmail(failedPages);
             console.log(`❌ ${failedPages.length} pages contain unprocessed variables`);
         }
 
