@@ -74,7 +74,7 @@ test.describe('Validate variables in URLs', () => {
             minute: '2-digit',
             second: '2-digit'
         }).replace(/\//g, '-').replace(/,\s*/g, '').replace(/:/g, '-');
-        const filename = `failed-pages-${timestamp}.json`;
+        const filename = `failed-pages-results-${timestamp}.json`;
             fs.writeFileSync(
                 filename,
                 JSON.stringify(failedPages, null, 2)
