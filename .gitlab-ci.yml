@@ -7,7 +7,7 @@ playwright-test:
   script:
     - npm install
     - npx playwright install
-    - npm validateVariables.spec.js
+    - npx playwright test tests/validateVariables.spec.js
 
   artifacts:
     when: always
@@ -15,4 +15,5 @@ playwright-test:
       - playwright-report
       - failed-tests.json
     expire_in: 1 week
-      - echo "Pipeline is working!"
+  after_script:
+    - echo "Pipeline is working!"
