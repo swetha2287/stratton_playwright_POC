@@ -35,7 +35,8 @@ export default defineConfig({
     reporter: [
       ['html'],
       ['json', {
-        outputFile: 'test-results.json',
+        outputFolder: 'test-results',
+        outputFile: 'failed-pages-results.json',
       }],
   ],
   },
