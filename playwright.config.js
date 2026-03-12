@@ -33,12 +33,10 @@ export default defineConfig({
     trace: 'on-first-retry',
     timeout: 60000,
     reporter: [
-      ['html'],
-      ['json', {
-        outputFolder: 'test-results',
-        outputFile: 'failed-pages-results.json',
-      }],
-  ],
+      ['html',{ outputFolder: 'playwright-report' }],
+      ['json', { outputFile: 'results.json' }]
+      ],
+      outputDir: 'test-results', 
   },
   /* Configure projects for major browsers */
   projects: [
