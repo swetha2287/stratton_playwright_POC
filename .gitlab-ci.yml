@@ -7,17 +7,17 @@ playwright-test:
   script:
     - npm install
     - npx playwright install
-    - npx playwright test tests/validateVariables.spec.js --reporter=json 
-    - mv playwright-report/results.json failed-pages-results.json || true
+    - npx playwright test tests/validateVariables.spec.js --reporter=json,html
+    - mv playwright-report/results.json failed-pages-results.json || mv playwright-report/failed-pages-results.json failed-pages-results.json || true
 
   artifacts:
     when: always
     paths:
-      - playwright-report
-      - /test-results
+      - playwright-report/
+      - test-results/
       - failed-pages-results.json
     expire_in: 1 week
   after_script:
     - echo "Pipeline is working!"
     - ls -R playwright-report/ || echo "No folder found."
-    - ls -la failed-pages-results.json || echo "No file found."
+  
