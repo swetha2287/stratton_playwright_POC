@@ -7,8 +7,12 @@ playwright-test:
   
   script:
     - npm install
+<<<<<<< HEAD
     - npx playwright install --with-deps
     - echo "Running Playwright tests..."
+=======
+    - npx playwright install
+>>>>>>> 048c4f1 (2nd fix: for report file on yaml and config file)
     - npx playwright test tests/validateVariables.spec.js --reporter=json,html
     - mv playwright-report/results.json failed-pages-results.json || mv playwright-report/failed-pages-results.json failed-pages-results.json || true
 
@@ -22,4 +26,8 @@ playwright-test:
   after_script:
     - echo "Pipeline is working!"
     - ls -R playwright-report/ || echo "No folder found."
+<<<<<<< HEAD
   
+=======
+  
+>>>>>>> 048c4f1 (2nd fix: for report file on yaml and config file)
