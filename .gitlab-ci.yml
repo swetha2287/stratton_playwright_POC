@@ -18,7 +18,7 @@ playwright-test:
       - playwright-report/
       - test-results/
       - failed-pages-results.json
-    expire_in: 1 week
+    expire_in: 2 days
   after_script:
     - echo "Pipeline is working!"
     - ls -R playwright-report/ || echo "No folder found."
