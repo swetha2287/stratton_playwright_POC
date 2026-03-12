@@ -30,7 +30,7 @@ export default defineConfig({
     baseURL: 'https://aem-dev.strattonfinance.com.au/',
     headless: true,
     /* Collect trace when retrying the failed test. See https://playwright.dev/docs/trace-viewer */
-    trace: 'on-first-retry',
+    trace: 'retain-on-failure',
     timeout: 60000,
     reporter: [
       ['html',{ outputFolder: 'playwright-report' }],

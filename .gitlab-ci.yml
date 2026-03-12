@@ -3,11 +3,12 @@ stages:
 
 playwright-test:
   stage: test
-  image: mcr.microsoft.com/playwright:v1.45.0-jammy
+  image: mcr.microsoft.com/playwright:v1.58.0-jammy
   
   script:
     - npm install
-    - npx playwright install
+    - npx playwright install --with-deps
+    - echo "Running Playwright tests..."
     - npx playwright test tests/validateVariables.spec.js --reporter=json,html
     - mv playwright-report/results.json failed-pages-results.json || mv playwright-report/failed-pages-results.json failed-pages-results.json || true
 
