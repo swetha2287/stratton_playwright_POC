@@ -99,21 +99,12 @@ test.describe('Validate variables in URLs', () => {
                 filename,
                 JSON.stringify(failedPages, null, 2)
             );
-<<<<<<< HEAD
        //send email if there are failed pages
         if (failedPages.length > 0) {
             console.log(`📧 Sending email report...`);
            // await sendEmail(failedPages);
             console.log(`❌ ${failedPages.length} pages contain unprocessed variables`);
         }
-=======
-            //send email if there are failed pages
-            if (failedPages.length > 0) {
-                console.log(`📧 Sending email report...`);
-                //await sendEmail(failedPages);
-                console.log(`❌ ${failedPages.length} pages contain unprocessed variables`);
-            }
->>>>>>> cf71f63 (5th fix:update config with tracing,update test with a component visiblity to avoid false positives on pipeline)
 
             console.log(`🎉 Among ${urls.length} pages, ${urls.length - failedPages.length} pages rendered correctly.`);
         });
